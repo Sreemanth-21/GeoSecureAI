@@ -173,5 +173,3 @@ UN SDG 11: Sustainable Cities and Communities
 
 UN SDG 3: Good Health and Well-being
 
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/kauhsikkk/hack4sdg_prototype)
